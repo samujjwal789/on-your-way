@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050818739169",
+    "firebase_url": "https://on-your-way-1246b.firebaseio.com",
+    "project_id": "on-your-way-1246b",
+    "storage_bucket": "on-your-way-1246b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050818739169:android:84ad5a340934358a1b30a0",
+        "android_client_info": {
+          "package_name": "com.example.oyw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050818739169-ek5gbf672ri96p4sha0d98770g1iv9d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oyw",
+            "certificate_hash": "d3e72ac6ee8a9bc58b9d43876a5109e99592c85c"
+          }
+        },
+        {
+          "client_id": "1050818739169-0tn6eqfbjaruuu3tajknv7efkoinntm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWg3FB1g6vU90BC9hNUZwJ4zv9yMi9VkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050818739169-0tn6eqfbjaruuu3tajknv7efkoinntm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
